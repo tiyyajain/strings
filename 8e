@@ -37,8 +37,8 @@ The original string is: malayalam
 The reverse string is: malayalam
 It is a Palindrome
 
-Enter a string: rutuja   
-The original string is: rutuja
-The reverse string is: ajutur
+Enter a string: tiya 
+The original string is: tiya
+The reverse string is: ayit
 It is not a Palindrome
 */
